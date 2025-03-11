@@ -1,4 +1,4 @@
-#Information & Insights
+Information & Insights
 
 I decided to make a repo with information on various things from my time doing 3D printing.   This is a collection of guides I have made, data from testing I have done, and anything else I think someone may find helpful.        
 
