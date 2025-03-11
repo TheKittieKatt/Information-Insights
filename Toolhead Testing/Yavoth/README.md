@@ -29,6 +29,7 @@ Small Zip Ties x2 (or more if you are like me and like your wiring super organiz
 40mm Bowden tube (trimmed down to fit)
 
 
+
 Assembly notes.   The LDO 2510 fan was super tight to try to press in.   
 
 I have found a trick that works well on most of these dual part cooling fan tool heads.   If you wish to see what I do feel free to check here:
