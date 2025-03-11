@@ -8,3 +8,4 @@ I have done my best to keep all testing fair and even across all tool heads.    
 
 Now that we have all the formalities out of the way let’s get into the meat and potatoes of it all.   
 
+![Alt text](https://github.com/TheKittieKatt/Information-Insights/blob/main/MyPrinters.jpg)
