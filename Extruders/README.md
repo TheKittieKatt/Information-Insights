@@ -1,6 +1,6 @@
 #Extruders
 
-![Alt text](https://raw.github.com/TheKittieKatt/Information-Insights/Extruders/Extruders.jpg)
+![Alt text](https://github.com/TheKittieKatt/Information-Insights/blob/main/Extruders/Extruders.JPG)
 
 Originally this was just going to be information on the g2 extruder variations.  But, as LDO was kind enough to donate an Orbiter 2.5, I figured I can add information for other extruders as well.  As I gather data about various extruders I will add that information to the repo.   
 
