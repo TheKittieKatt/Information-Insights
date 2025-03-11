@@ -1,6 +1,6 @@
-#Extruders
+Extruders
 
-![Alt text](https://raw.github.com/TheKittieKatt/Information-Insights/Extruders/Extruders.jpg)
+![Alt text](https://github.com/TheKittieKatt/Information-Insights/blob/main/Extruders/Extruders.JPG)
 
 Originally this was just going to be information on the g2 extruder variations.  But, as LDO was kind enough to donate an Orbiter 2.5, I figured I can add information for other extruders as well.  As I gather data about various extruders I will add that information to the repo.   
 
@@ -8,4 +8,4 @@ Please keep in mind that there are a ton of different extruders out there now wi
 
 I am focusing more on physical attributes such as weight and size here and I suggest doing some homework into the extruders you are trying to decide between to see what will work best for your needs.  I did include some of the information on the drive style and such, but if you want further information, I do highly recommend going to the creator’s site to get full information on their project.  I have also made folders for each extruder with further information as well as pictures from testing and such as well.
 
-![Alt text](https://raw.github.com/TheKittieKatt/Information-Insights/Extruders/ExtruderTesting.jpg)
+![Alt text](https://github.com/TheKittieKatt/Information-Insights/blob/main/Extruders/ExtruderTesting.jpg)
