@@ -6,4 +6,4 @@ If you are questioning why I would do this.   Well I had a rough start in 3D pri
 
 So I hope this information is helpful!   
 
-![Alt text](https://raw.github.com/TheKittieKatt/Information-Insights/MyPrinters.jpg)
+![Alt text](https://github.com/TheKittieKatt/Information-Insights/blob/main/MyPrinters.jpg))
