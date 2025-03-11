@@ -1,6 +1,6 @@
 AntHead Extruder
 
-
+![Alt text](https://github.com/TheKittieKatt/Information-Insights/blob/main/Extruders/AntHead/IMG_4606.JPG)
 
 This is a modified g2ww extruder adding in two micro switches and ball bearings that act as filament run out sensors.   One is near the top and one is near the bottom.    This is wonderful for MMU builds.   While it is a little heavier than a g2ww or g2sa, it does allow you to put 1 or two run out sensors directly in your extruder thus not needing an external one, cleaning up your build.  
 
