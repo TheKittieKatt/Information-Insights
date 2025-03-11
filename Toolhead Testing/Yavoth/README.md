@@ -2,6 +2,8 @@ Yavoth
 
 https://github.com/chirpy2605/voron/tree/main/V0/Yavoth
 
+![Alt text](https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Yavoth/Yavoth.jpg)
+
 I think this may be my new favorite tool head to recommend to people wanting to do their first new tool head.   While there is no manual it is pretty straightforward as there is just a main body and possibly a spacer depending on your hot end.    
 
 What you will need to assemble this tool head:
