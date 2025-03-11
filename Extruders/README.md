@@ -1,4 +1,4 @@
-#Extruders
+Extruders
 
 ![Alt text](https://github.com/TheKittieKatt/Information-Insights/blob/main/Extruders/Extruders.JPG)
 
