@@ -23,4 +23,4 @@ I have found a trick that works well on most of these dual part cooling fan tool
 https://github.com/TheKittieKatt/Information-Insights/blob/main/Guides/Dual%20Fan%20Toolhead%20Wiring/Dual%20Fan%20Wiring%20Guide.pdf
 
 
-![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/AntHead/YavothWeight.JPG)
+![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Yavoth/YavothWeight.JPG)

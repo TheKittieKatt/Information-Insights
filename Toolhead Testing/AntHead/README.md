@@ -17,6 +17,6 @@ Logo Led:  Neopixel x1
 Part Led:  None
 
 Assembly notes.   LOTS of parts that all tie into each other, not fun to work on if you need to work on the tool head for any reason.   Make sure you leave a little extra slack in the part cooling fan wires as it will make putting the ducts on easier later.  
- 
+
 
 ![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/AntHead/AntHeadWeight.JPG)
