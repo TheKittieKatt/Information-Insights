@@ -17,6 +17,7 @@ Hot End Cooling Fan:  4010 Axial Fan x1
 Logo Led:  Neopixel x1
 
 Part Led:  Neopixel x2
+
 Assembly notes.   If this is your first time building this tool head be sure to follow the manual as when it comes time to assemble the face plate it can be tricky the first time if you don’t have any instructions.    Another note on assembly, is when putting the face plate on be very careful and pay attention to where the pins are.  If the pins are in the wrong places, it could just mean your fans not working right, or it could fry your boards depending how far off you are.     
 
 
