@@ -6,7 +6,9 @@ https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner
 
 Rapid Burner is similar to the Dragon Burner, it is just taller to give room for UHF hot ends.   Another notable difference is that while you can just bolt on a DB after building it, for RB you will have to assemble it in steps when mounting it.    
 
-Up to this point (3/20/2025), I have not found a lighter and smaller tool head for UHF hot ends.     I have run this toolhead for over a year now with no issues and wonderful results.   While not the easiest to assemble or simplest of designs, it does function very well once assembled and working.    
+Up to this point (3/20/2025), I have not found a lighter and smaller tool head for UHF hot ends.     I have run this toolhead for over a year now with no issues and wonderful results.   While not the easiest to assemble or simplest of designs, it does function very well once assembled and working.   
+
+Something else worth noting weight wise in comparison to the official testing.   This does have LEDs installed as well as Cartographer and a limit switch.  So this is full operating weight.   
 
 Part Cooling Fans:  4010 Blower Fans x2
 
