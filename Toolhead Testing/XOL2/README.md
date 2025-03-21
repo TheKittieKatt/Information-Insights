@@ -2,7 +2,7 @@ XOL2
 
 https://github.com/Armchair-Heavy-Industries/Xol-Toolhead
 
-![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/ XOL2/XOL2.JPG)
+![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/XOL2/XOL2.JPG)
 
 My first time using this tool head was right after it was released.  The mounting system was a nightmare, and I immediately noticed how wide it was.   This is the widest toolhead I have come across to date.   It is about 20mm wider than most other toolheads out there.   In getting the current version of the tool head, I will give credit to the developers in updating the mounting system.  It is much better than it was.    
 
