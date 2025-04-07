@@ -14,7 +14,7 @@ This tool head will be sold as a kit requiring printed parts.   You will want to
 
 I ran this tool head for about 3-4 weeks before its launch and thus far have had no issues.   
 
-![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Jabberwocky/20250316_140645.jpg)
+![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Jabberwocky/20250311_150417.jpg)
 
 Some of the main features of the tool head as described by the creators are:
 
