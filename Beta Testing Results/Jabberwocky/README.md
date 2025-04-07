@@ -1,5 +1,7 @@
 Jabberwocky
 
+![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Jabberwocky/20250316_140645.jpg)
+
 I had the opportunity to beta test Jabberwocky.  This is a complete tool head solution, as in you use their body and extruder.   I was pleasantly surprised by the results.   I have used several hot ends and extruders over the years and have got good results with most.   But this toolhead sets itself apart from most in a few ways.  
 
 The first thing that I fell in love with when I was done assembling this, even before trying it, was the magnets instead of a spring for the filament cutter.   This was a huge quality of life upgrade to me.
@@ -11,6 +13,8 @@ I have also spent a lot of time discussing the toolhead with the designer.   One
 This tool head will be sold as a kit requiring printed parts.   You will want to be sure your print quality is on point when printing the parts for this as the tolerances are very tight on a few things.  Or if you are going to pay someone to print parts for you be sure their quality is top quality.   The kit is supposed to come with the hot end (Conch), extruder parts, fans, toolhead board (Night Hawk 36), and all the other misc. wiring and such you will need. 
 
 I ran this tool head for about 3-4 weeks before its launch and thus far have had no issues.   
+
+![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Jabberwocky/20250316_140645.jpg)
 
 Some of the main features of the tool head as described by the creators are:
 

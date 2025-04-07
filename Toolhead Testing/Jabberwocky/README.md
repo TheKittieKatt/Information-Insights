@@ -2,7 +2,7 @@ Jabberwocky
 
 https://github.com/Enraged-Rabbit-Community/Jabberwocky
 
-![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Rapid%20Burner/KittieRapidBurner.JPG)
+![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Jabberwocky/20250316_140645.jpg)
 
 Jabberwocky is a full tool head solution.  Designed from the ground up it has many unique features and addresses many minor issues various extruders have in attempt to make something new and with fewer issues.     I had the pleasure of beta testing this tool head and I must admit I was impressed by the results I was getting out of it.    While it is mainly geared towards MMU applications, it works wonderfully as a standard toolhead as well.    
 
@@ -22,7 +22,7 @@ Part Led:  Neopixel x2
 
 Assembly notes:   I was very impressed that the developers took the time to make tools to assist with ensuring that the bearings were installed smoothly and evenly.    The tool head is also designed to be very tight tolerances.   If you are struggling with print quality, you may have some issues assembling this tool head.   
 
-![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Rapid%20Burner/KittieRapidBurnerWeight.JPG)
+![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Jabberwocky/20250311_150417.jpg)
 
 
 
