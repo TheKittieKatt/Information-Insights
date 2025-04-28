@@ -1,6 +1,6 @@
 AntHead Extruder Modified
 
-![Alt text](https://github.com/TheKittieKatt/Information-Insights/blob/main/Extruders/Anthead%20(Modified)/IMG_4607.JPG)
+![Alt text](https://github.com/TheKittieKatt/Information-Insights/blob/main/Extruders/G2Anthead%20(Modified)/G2ah%20(modified).JPG)
 
 I have modified the AntHead Extruder to close the hole at the bottom of the extruder if you only need one switch.    This should help with possible snags when feeding in filament. 
 
