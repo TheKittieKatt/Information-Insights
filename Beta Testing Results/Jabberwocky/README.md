@@ -33,3 +33,5 @@ Magnetic Filametrix Cutter is based off filametrix but has been designed specifi
 Flip up Extruder.  Probably an industry first, a tool-less easy to access toolhead design so that one can access the blade or the filament path for servicing and troubleshooting. This allows a user, in the event of hopefully a rare problem during a filament changing print the ability to access the filament path to clear it of issues and continue with a print job.  I do not believe there is a design out there that can offer this kind of serviceability on the fly. The double hinge design is both designed to make this very stable, but also a very accurate registration for the filament path and cutter. This is one of the signature features of the toolhead. 
 
 Phaetus Conch Hotend has been specifically selected to pair with this toolhead. Although JW can use other hot ends with some modifications, this toolhead is specifically selected because of its performance and its unique cooling system.
+
+![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Jabberwocky/Tiny_Tina.jpg)
