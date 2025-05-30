@@ -34,4 +34,4 @@ Flip up Extruder.  Probably an industry first, a tool-less easy to access toolhe
 
 Phaetus Conch Hotend has been specifically selected to pair with this toolhead. Although JW can use other hot ends with some modifications, this toolhead is specifically selected because of its performance and its unique cooling system.
 
-![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Jabberwocky/Tiny_Tina.jpg)
+![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Beta%20Testing%20Results/Jabberwocky/Tiny_Tina.JPG)
