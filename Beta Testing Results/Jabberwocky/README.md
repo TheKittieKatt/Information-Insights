@@ -1,5 +1,7 @@
 Jabberwocky
 
+https://github.com/kinematicdigit/Jabberwocky
+
 ![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Jabberwocky/20250316_140645.jpg)
 
 I had the opportunity to beta test Jabberwocky.  This is a complete tool head solution, as in you use their body and extruder.   I was pleasantly surprised by the results.   I have used several hot ends and extruders over the years and have got good results with most.   But this toolhead sets itself apart from most in a few ways.  

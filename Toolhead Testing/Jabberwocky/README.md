@@ -1,6 +1,6 @@
 Jabberwocky
 
-https://github.com/Enraged-Rabbit-Community/Jabberwocky
+https://github.com/kinematicdigit/Jabberwocky
 
 ![Alt text]( https://github.com/TheKittieKatt/Information-Insights/blob/main/Toolhead%20Testing/Unofficial/Jabberwocky/20250316_140645.jpg)
 
